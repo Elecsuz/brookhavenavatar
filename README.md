@@ -5,4 +5,4 @@ Scriptti çalıştırma komutu
 ```
 ```
 
-!/image.png
+![](/image.png)
